@@ -29,7 +29,7 @@
 	          <div class="small-box bg-aqua min-h-10em">
 	            <div class="inner text-center ">
 
-	              <h3><font class="pt-2" style="vertical-align: middle  ;"><font style="vertical-align: middle;">MOSCA</font></font></h3>
+	              <h3><font class="pt-2" style="vertical-align: middle  ;"><font style="vertical-align: middle;">MO SCA</font></font></h3>
 
 	              <!--p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font></p-->
 	            </div>
