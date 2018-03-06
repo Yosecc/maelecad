@@ -1,0 +1,8 @@
+#impedir ver carpetas
+Options All -Indexes
+
+#UrlAmigables
+
+RewriteEngine on
+
+RewriteRule ^(\w+)$ index.php?action=$1
